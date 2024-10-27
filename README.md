@@ -7,9 +7,9 @@
 
 # Releases
 
-[RoSwagger Module | roswagger.py](https://github.com/RoSwagger/RoSwagger-Module)
-[Roblox Lookup | Kag Discord Bot Clone](https://github.com/RoSwagger/Roblox-Lookup)
-[Date Formatter | Formats ISO to Discord Timestamp](https://github.com/RoSwagger/Date-Formatter)
+<p>[RoSwagger Module | roswagger.py](https://github.com/RoSwagger/RoSwagger-Module)</p>
+<p>[Roblox Lookup | Kag Discord Bot Clone](https://github.com/RoSwagger/Roblox-Lookup)</p>
+<p>[Date Formatter | Formats ISO to Discord Timestamp](https://github.com/RoSwagger/Date-Formatter)</p>
 
 # RoSwagger API Integration
 
