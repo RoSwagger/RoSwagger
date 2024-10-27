@@ -5,6 +5,12 @@
 - We have released a new module that you can install on Python, `roswagger` via `pip install roswagger` and can be integrated by `from roswagger import Swagger`
 - Release #1: https://github.com/RoSwagger/RoSwagger-Module/releases/tag/roswagger
 
+# Releases
+
+[RoSwagger Module | roswagger.py](https://github.com/RoSwagger/RoSwagger-Module)
+[Roblox Lookup | Kag Discord Bot Clone](https://github.com/RoSwagger/Roblox-Lookup)
+[Date Formatter | Formats ISO to Discord Timestamp](https://github.com/RoSwagger/Date-Formatter)
+
 # RoSwagger API Integration
 
 This project integrates with the RoSwagger API, allowing you to make requests to various endpoints.
